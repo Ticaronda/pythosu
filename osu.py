@@ -77,4 +77,4 @@ class HitObject():
 
 if __name__ == "__main__":
     # open_osz("Reol - No title.osz")
-    no_title = osu("maps/Reol - No title/Reol - No title (VINXIS) [toybot's Insane].osu")
+    no_title = osu("maps/Nekomata Master+ - Spiral2005/Nekomata Master+ - Spiral2005 (Chaoslitz) [Superstar].osu")

@@ -20,4 +20,4 @@ def open_osu(osu) -> None:
 
 if __name__ == "__main__":
     # open_osz("Reol - No title.osz")
-    open_osu("maps/Reol - No title/Reol - No title (VINXIS) [toybot's Insane].osu")
+    open_osu("maps/Nekomata Master+ - Spiral2005/Nekomata Master+ - Spiral2005 (Chaoslitz) [Superstar].osu")
